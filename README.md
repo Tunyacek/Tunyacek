@@ -13,6 +13,9 @@ My name is **Nikola** and I love devouring food :pizza: —which is why I made t
 
 I also love cats, kittens and chonkers .
 Or smashing buttons while playing video games.<img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" alt="Bongo Cat" width="35">
+
+<br>
+
 Swimming and dancing are my go-to hobbies, but honestly, I just love having fun—whether it's sports, adventures, or something totally new!
 
 ---
