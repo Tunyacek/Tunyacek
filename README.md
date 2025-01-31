@@ -2,7 +2,6 @@
 
 <h2 align="center"> Welcome to my GitHub profile. <img src="https://camo.githubusercontent.com/5ad6679a100599b10c6833c4c4eb5e7128b58e66a1f95f77fb87bfc791b4dd24/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f676974687562706172726f742e676966" width="20"> </h2>
 
----
 
 My name is **Nikola** and I love devouring food :pizza: —which is why I made this cutie :point_right: [NomNomNation](https://nomnomnation.vercel.app/) :green_heart:, so I have all recipes in one place!
 
